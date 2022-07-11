@@ -1,5 +1,13 @@
 # Shadow Editor
 
+http://shadoweditor.luhui.net/
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d615717-21b4-4cbc-91fe-978e9d12cf8d/deploy-status)](https://app.netlify.com/sites/shadoweditor/deploys)
+
+https://shadoweditor.netlify.app/
+
+
 English / [中文](README_zh.md) &nbsp;&nbsp; |
 &nbsp;&nbsp; <a href="https://github.com/tengge1/ShadowEditor/releases/download/v0.6.0/ShadowEditorServer-win32-x64.zip" title="Requires `Visual C++ Redistributable for Visual Studio 2015`">
 Windows Server</a> &nbsp;&nbsp; |
